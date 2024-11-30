@@ -15,4 +15,4 @@
 -- Config
 getgenv().DebugMode = false -- Set this to true to see how many passes and fails at the end of each function and maybe more features in the future.
 
-loadstring(game:HttpGet("https://github.com/HiimAperson124/Fake-sUNC/raw/refs/heads/main/Source/Fake-sUNC-Main.lua"))()
+loadstring(game:HttpGet("https://github.com/skintalker/Fake-sUNC/raw/refs/heads/main/Source/Fake-sUNC-Main.lua"))()
