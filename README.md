@@ -56,3 +56,6 @@ Please don't make false accusations.
 
 ## Help
 I hope you learnt how to use it from reading this, but if you don't find the information or help you are looking for, message me on Discord, my username is @skintalker and I will try my best to respond quickly and help, if you do reach out.
+
+## Credits
+I would like to thank @uniquadev for their Gui2Lua converter, and a few other people who have helped with a line or two of code which I couldn't figure out because my brain was half awake or I was too dumb.
