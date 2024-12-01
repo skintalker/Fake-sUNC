@@ -4,6 +4,10 @@ Thanks for stopping by, this is the documentation for my (@skintalker) fake sUNC
 
 This is still a work in progress, so this readme / documentation will be updated as changes are made. Feel free to read through this.
 
+## What is sUNC Test?
+
+sUNC Test stands for sens Unified Naming Convention Test. If you don't know already, there is something called the Unified Naming Convention, basically a bunch of non luau, custom functions that most executors have because they choose to have it. There is a UNC Test where it tests each UNC function seperately and checks if they pass or fail the test. All of the tests are combined to a percent like 39% UNC or 100% UNC. UNC Test can be easily faked because it is open source and shows what each test needs to have to succeed. The sUNC test however, tests functions more thoroughly and is almost obfuscated so people wouldn't know what to do to make it succeed. I hope this summarizes it for you as I don't know how to explain any further.
+
 ## How to run it
 You can use this script or you can go into Loader.lua and copy it there.
 ```luau
