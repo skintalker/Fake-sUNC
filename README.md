@@ -43,6 +43,11 @@ It is pretty cluttered, sorry about that, as I don't really know how to fix the 
 
 **Once you are finished, you can execute and press F9 or type in /console to view the roblox console, where the fake test will be of course.**
 
+## To-do
+
+- Add a non-manual mode (Randomly choose bad tests / good tests instead of manually.)
+- Make less cluttered somehow, pls give ideas.
+
 ## Notes
 If you read through the code and saw the text 
 ```luau
