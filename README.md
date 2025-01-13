@@ -54,17 +54,6 @@ It is pretty cluttered, sorry about that, as I don't really know how to fix the 
 - Add a non-manual mode (Randomly choose bad tests / good tests instead of manually.)
 - Make less cluttered somehow, pls give ideas.
 
-## Notes
-If you read through the code and saw the text 
-```luau
-function sendWebhook()
-```
-I really am just seeing who executes the script. The reason for this is because, number one, I want to know where my script gets spreaded. Number two, if someone says my script is their own, I will have proof that it isn't. 
-
-I can send you the source for that part of the script if you don't believe me, and you politely ask to me on Discord. 
-
-Please don't make false accusations.
-
 ## Help
 I hope you learnt how to use it from reading this, but if you don't find the information or help you are looking for, message me on Discord, my username is @skintalker and I will try my best to respond quickly and help, if you do reach out.
 
