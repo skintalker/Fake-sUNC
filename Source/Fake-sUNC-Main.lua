@@ -1361,7 +1361,7 @@ function Execute()
 
 	local function endText(a)
 		print(cool.." "..successText) -- prints the success rate text
-		print(x.." Total tests failed: "..#failed_tests) -- self explanatory
+		print(x.." Total tests failed: ‌"..#failed_tests) -- self explanatory
 		if debugMode then
 			print(smirk.." This test was made by skintalker, i spent an hour or probably longer coding this.")
 		else
@@ -1386,7 +1386,7 @@ function Execute()
 		task.wait(0.03)
 		print(exmark .. " Starting simple loadstring URL testing...")
 		task.wait(0.03)
-		print(tick .. " Passed the simple loadstring URL test. Short obfuscated scripts can be executed.")
+		print(tick .. " Passed the simple loadstring URL test. Short obfuscated scripts can be executed.‌")
 		task.wait(0.03)
 		print(exmark .. " Finished simple loadstring testing")
 		task.wait(0.03)
