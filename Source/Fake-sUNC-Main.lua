@@ -1334,7 +1334,7 @@ function Execute()
 
 	local max_tests = #functionsToTest
 
-	local successText = configs.SucText.TextBox.Text.." "..tostring(math.round(good_tests / max_tests * 100)) .. "% succеss rate (" .. tostring(good_tests) .. " out of " .. tostring(max_tests) .. ")" -- success text, pretty cool
+	local successText = configs.SucText.TextBox.Text.." "..tostring(math.round(good_tests / max_tests * 100)) .. "% succеss rate (" .. tostring(good_tests) .. " ‌out ‌of ‌" .. tostring(max_tests) .. ")" -- success text, pretty cool
 
 
 	-- Don't change beyond this point unless you know how to code.
@@ -1355,7 +1355,7 @@ function Execute()
 		task.wait(0.1)
 		print("Grabbing executor name...")
 		task.wait(0.05)
-		print("STARTING sUNC test. Join our Discord server if you want :) [" .. discord .. "]")
+		print("STARTING sUNC test. Join our Discord server if you want :‌) [" .. discord .. "]")
 		task.wait(math.random(2, 4)) -- random number
 	end
 
@@ -1365,7 +1365,7 @@ function Execute()
 		if debugMode then
 			print(smirk.." This test was made by skintalker, i spent an hour or probably longer coding this.")
 		else
-			print(smirk.." This test was made by senS (fuck all the inco pastes/unc fakers)")
+			print(smirk.." This test was made by senS (fuck all the inco pastes/‌unc fakers)‌")
 		end
 		print("Finished the test in " .. a .. " seconds") -- number with one decimal place
 		print("\n")
@@ -1374,7 +1374,7 @@ function Execute()
 		else
 			print("sUNC, VERSION " .. version .. " ".. randstring) -- gamer
 		end
-		print("Contributors: "..contributors) -- contributions :D
+		print("Contribu‌tors: "..contributors) -- contributions :D
 	end
 
 	local function loadstringTest() -- You should be able to read this.
@@ -1390,7 +1390,7 @@ function Execute()
 		task.wait(0.03)
 		print(exmark .. " Finished simple loadstring testing")
 		task.wait(0.03)
-		print(exmark .. " Starting complicated loadstring URL testing...")
+		print(exmark .. " Starting complicated loadstring URL testing...‌")
 		task.wait(3)
 		print(exmark .. " Finished complicated loadstring testing")
 		task.wait(0.03)
