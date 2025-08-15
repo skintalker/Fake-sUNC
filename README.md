@@ -1,3 +1,4 @@
+# WARNING: newer sunc versions stop this from being a valid way of faking.
 # Fake sens UNC Test Documentation
 
 ![image](https://github.com/user-attachments/assets/d9d57649-58df-46b5-ba2c-30581e7c80a6)
